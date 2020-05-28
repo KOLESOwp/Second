@@ -1,0 +1,28 @@
+.block{
+	height: 400px;
+	border: 2px solid black;
+	padding: 3px;
+	margin-bottom: 15px;
+}
+.block2{
+	display:block;
+	height: 100px;
+	border: 2px solid black;
+	padding: 3px;
+}
+.nickdate {
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.datetime{
+	text-align: right;
+}
+.textsend {
+    width: 60%;
+}
+.send  {
+	display: flex;
+	margin-top: 15px;
+    margin-right: 40%;
+}
